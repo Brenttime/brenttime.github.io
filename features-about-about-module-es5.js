@@ -240,7 +240,7 @@
 
       function AboutComponent_mat_chip_23_Template(rf, ctx) {
         if (rf & 1) {
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "mat-chip", 13);
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "mat-chip", 14);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](1);
 
@@ -288,7 +288,7 @@
         selectors: [["anms-about"]],
         decls: 25,
         vars: 3,
-        consts: [[1, "background"], [1, "gradient"], [1, "container"], [1, "portfolio-div"], ["src", "https://i.imgur.com/nThaaa1.jpg", 2, "border-radius", "50%", "object-fit", "cover", "width", "200px", "height", "200px", "display", "block", "margin-left", "auto", "margin-right", "auto"], ["color", "primary", 2, "width", "100%"], [2, "left", "0"], [2, "padding-left", "1%"], ["href", "https://www.linkedin.com/in/brent-turner-7898b5134/", "target", "_blank", "rel", "noopener noreferrer"], [2, "color", "white", 3, "icon"], [2, "padding-top", "2%"], ["color", "accent", 4, "ngFor", "ngForOf"], ["rtl", "", 1, "container"], ["color", "accent"]],
+        consts: [[1, "background"], [1, "gradient"], [1, "container"], [1, "portfolio-div"], ["src", "https://i.imgur.com/nThaaa1.jpg", 2, "border-radius", "50%", "object-fit", "cover", "width", "200px", "height", "200px", "display", "block", "margin-left", "auto", "margin-right", "auto"], ["color", "primary", 2, "width", "100%"], [2, "left", "0"], [2, "padding-left", "1%"], ["href", "https://www.linkedin.com/in/brent-turner-7898b5134/", "target", "_blank", "rel", "noopener noreferrer"], [2, "color", "white", 3, "icon"], [2, "padding-top", "2%", "padding-bottom", "2%"], [2, "padding-top", "2%"], ["color", "accent", 4, "ngFor", "ngForOf"], ["rtl", "", 1, "container"], ["color", "accent"]],
         template: function AboutComponent_Template(rf, ctx) {
           if (rf & 1) {
             _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 0);
@@ -359,11 +359,11 @@
 
             _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](21, "div", 10);
+            _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](21, "div", 11);
 
             _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](22, "mat-chip-list");
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](23, AboutComponent_mat_chip_23_Template, 2, 1, "mat-chip", 11);
+            _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](23, AboutComponent_mat_chip_23_Template, 2, 1, "mat-chip", 12);
 
             _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
@@ -373,7 +373,7 @@
 
             _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](24, "div", 12);
+            _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](24, "div", 13);
           }
 
           if (rf & 2) {
