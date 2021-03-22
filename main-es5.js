@@ -3573,7 +3573,7 @@
       "kiQV");
 
       var environment = {
-        appName: 'Angular Ngrx Material Starter',
+        appName: 'Brent Turner',
         envName: 'DEV',
         production: false,
         test: false,

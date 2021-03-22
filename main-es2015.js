@@ -1732,7 +1732,7 @@ __webpack_require__.r(__webpack_exports__);
 // The list of which env maps to which file can be found in `.angular-cli.json`.
 const packageJson = __webpack_require__(/*! ../../../../package.json */ "kiQV");
 const environment = {
-    appName: 'Angular Ngrx Material Starter',
+    appName: 'Brent Turner',
     envName: 'DEV',
     production: false,
     test: false,
